@@ -63,28 +63,6 @@ The analysis can support discussions on more targeted waste collection, transpor
 * Seaborn
 * Jupyter Notebook
 
-## 📁 Repository Structure
-
-```text
-jakarta-waste-analysis/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── jakarta_waste_analysis.ipynb
-│
-├── infographic/
-│   ├── jakarta_waste_infographic.png
-│   └── jakarta_waste_infographic.pdf
-│
-├── report/
-│   └── infographic_description.pdf
-│
-└── README.md
-```
-
 ## 📚 Data Sources
 
 * Jakarta Government — Jakarta Administrative Area and Population Information
